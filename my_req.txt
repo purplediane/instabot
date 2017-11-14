@@ -1,0 +1,9 @@
+certifi==2017.11.5
+chardet==3.0.4
+idna==2.6
+instabot==0.3.4
+requests==2.18.4
+requests-toolbelt==0.8.0
+schedule==0.4.3
+tqdm==4.19.4
+urllib3==1.22
